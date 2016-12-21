@@ -1,0 +1,44 @@
+#title {
+  color: black;
+  font-family: Georgia;
+  font-size: 50px;
+}
+#description {
+  color: grey;
+  font-family: Georgia;
+}
+body {
+  margin: 50px;
+  background-color: #F7F7F7;
+}
+.image{
+  padding: 20px;
+  background-color: white;
+}
+#caption {
+  color: black;
+  font-family: Georgia;
+  padding: 10px;
+}
+.timeline {
+  font-family: Georgia;
+}
+#list {
+  padding-top: 30px;
+  font-size: 25px;
+}
+.bullets {
+  font-size: 18px;
+}
+#quote {
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+.website {
+  font-size: 22px;
+  font-family: Georgia;
+  padding-top: 20px;
+}
+
+
