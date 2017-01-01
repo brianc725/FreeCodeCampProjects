@@ -1,0 +1,103 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  background-color: #F7F7F7;
+}
+
+.title {
+  font-family: "Ubuntu", sans-serif;
+  color: black;
+  font-size: 50px;
+}
+
+#About {
+  width: 65%;
+  margin: 0 auto;
+}
+
+#major {
+  color: red;
+  font-weight: bold;
+}
+
+#ge {
+  color: blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    margin-left: -15px;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+.toolbar li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 4px 20px;
+}
+
+.toolbar li a:hover {
+    background-color: white;
+}
+
+.toolbar {
+  font-family: "Julius Sans One", sans-serif;
+  color: black;
+  background-color: #53DB73;
+}
+
+#footer {
+  margin-top: 50px;
+}
+
+#listport1 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#listport2 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#imageport {
+  margin-right: 30px;
+}
+
+.port li a {
+  display: block;
+  color: black;
+}
+
+.port li a:hover {
+    background-color: black;
+    color: white;
+}
+
+.img {
+  width: 320px;
+  height: 240px;
+}
+
+.media {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+#logos {
+  width: 12%;
+  margin: 0 auto;
+}
+
+.logobut {
+  margin: 2px;
+}
+
+
